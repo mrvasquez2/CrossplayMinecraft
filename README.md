@@ -1,7 +1,7 @@
 # VanillaServer
 Information and feedback for Vanilla Minecraft server
 
-#IP
+# IP
 
 Bedrock: x.x.x.x25556
 
