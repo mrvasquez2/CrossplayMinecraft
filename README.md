@@ -8,8 +8,8 @@ Bedrock: x.x.x.x25556
 Java: x.x.x.x:25555
 
 # Setup for bedrock
-##### I have not made these guides myself, this is from their github page for the plugin used on the server.
-##### https://github.com/GeyserMC/Geyser/wiki/Using-Geyser-with-Consoles
+###### I have not made these guides myself, this is from their github page for the plugin used on the server.
+###### https://github.com/GeyserMC/Geyser/wiki/Using-Geyser-with-Consoles
 ### Xbox one
 [![TEST STuff](https://img.youtube.com/vi/g8mHvasVHMs/0.jpg)](https://www.youtube.com/watch?v=g8mHvasVHMs)
 ### Nintendo Switch
