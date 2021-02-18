@@ -23,13 +23,14 @@ This can be done with either a PC, Android APP or iOS 14+, the device must be on
 with PC you can use Phantom
 
 #### Android app
-Work in progress Geyser Android app
-MC Lan Proxy (Trial)
-MC Lan Proxy (Paid)
-MC Server Connector
+##### Work in progress Geyser Android app
+##### MC Lan Proxy (Trial)
+##### MC Lan Proxy (Paid)
+##### MC Server Connector
 
 #### iOS 14+
 BedrockTogether
+
 
 
 
