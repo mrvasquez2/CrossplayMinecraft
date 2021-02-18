@@ -15,21 +15,22 @@ The ip address can be found on the discord server in #minecraft
 ### PS4
 ######For this i will refer to the text from their Github page:
 
-Unfortunately at this time, PS4 does not have any external server support. However, there are ways around this by emulating a LAN game on your network on another device.
+PS4 does not have any external server support. But there is some ways around this. 
+You will need to emulate a LAN game on your network. 
+This can be done with either a PC, Android APP or iOS 14+, the device must be on the same network as the console.
 
-Note that this method will also work with any other Bedrock platform other than Nintendo Switch
-Using a PC with a PlayStation 4
-If you have a PC, you can use Phantom.
+##### PC
+with PC you can use Phantom
 
-Using an Android Device with a PlayStation 4
-If you have an Android device, you have several options:
-
+##### Android app
 Work in progress Geyser Android app
 MC Lan Proxy (Trial)
 MC Lan Proxy (Paid)
 MC Server Connector
-Using an iOS device with a PlayStation 4
-If you have an iOS 14+ device, you can use BedrockTogether.
+
+##### iOS 14+
+BedrockTogether
+
 
 ## Feedback
 Any kind of feedback can either be posted here under "issues" or you can DM me on discord. (#mrvasquez7574)
