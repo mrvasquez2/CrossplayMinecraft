@@ -23,6 +23,8 @@ This can be done with either a PC, Android APP or iOS 14+, the device must be on
 ### PC
 with PC you can use Phantom
 
+./phantom-<os> -server lax.mcbr.cubed.host:19132
+
 ### Android app
 ##### Work in progress Geyser Android app 
 ##### MC Lan Proxy (Trial)
