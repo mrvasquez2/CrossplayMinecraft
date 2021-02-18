@@ -8,6 +8,8 @@ Bedrock: x.x.x.x25556
 Java: x.x.x.x:25555
 
 # Setup for bedrock
+##### I have not made these guides myself, this is from their github page for the plugin used on the server.
+##### https://github.com/GeyserMC/Geyser/wiki/Using-Geyser-with-Consoles
 ### Xbox one
 [![TEST STuff](https://img.youtube.com/vi/g8mHvasVHMs/0.jpg)](https://www.youtube.com/watch?v=g8mHvasVHMs)
 ### Nintendo Switch
@@ -31,6 +33,3 @@ MC Server Connector
 Using an iOS device with a PlayStation 4
 If you have an iOS 14+ device, you can use BedrockTogether.
 
-###### Source for thess guides is from https://github.com/GeyserMC/Geyser/wiki/Using-Geyser-with-Consoles
-###### This is also the plugin used on the server.
-###### I have not made this myself!
