@@ -3,6 +3,7 @@ Information and feedback for Vanilla Minecraft server
 
 # IP
 
+
 The ip address can be found on the discord server in #minecraft
 
 # Setup for bedrock
@@ -22,8 +23,8 @@ This can be done with either a PC, Android APP or iOS 14+, the device must be on
 ### PC
 with PC you can use Phantom
 
-#### Android app
-##### Work in progress Geyser Android app
+### Android app
+##### Work in progress Geyser Android app 
 ##### MC Lan Proxy (Trial)
 ##### MC Lan Proxy (Paid)
 ##### MC Server Connector
