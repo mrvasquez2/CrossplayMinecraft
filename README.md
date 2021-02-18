@@ -31,3 +31,5 @@ MC Server Connector
 Using an iOS device with a PlayStation 4
 If you have an iOS 14+ device, you can use BedrockTogether.
 
+## Feedback
+Any kind of feedback can either be posted here under "issues" or you can DM me on discord. (#mrvasquez7574)
