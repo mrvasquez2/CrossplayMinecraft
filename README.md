@@ -3,9 +3,7 @@ Information and feedback for Vanilla Minecraft server
 
 # IP
 
-Bedrock: x.x.x.x25556
-
-Java: x.x.x.x:25555
+The ip address can be found on the discord server in #minecraft
 
 # Setup for bedrock
 ###### I have not made these guides myself, this is from their github page for the plugin used on the server.
