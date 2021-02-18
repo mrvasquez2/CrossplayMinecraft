@@ -23,16 +23,21 @@ This can be done with either a PC, Android APP or iOS 14+, the device must be on
 ### PC
 with PC you can use Phantom
 
-./phantom-<os> -server lax.mcbr.cubed.host:19132
+./phantom-<os> -server x.x.x.x:25556
 
 ### Android app
-##### Work in progress Geyser Android app 
-##### MC Lan Proxy (Trial)
-##### MC Lan Proxy (Paid)
-##### MC Server Connector
+##### Work in progress Geyser Android app:
+https://github.com/GeyserMC/GeyserAndroid
+##### MC Lan Proxy (Trial):
+https://play.google.com/store/apps/details?id=com.luzenna.mineproxydroidtrial
+##### MC Lan Proxy (Paid):
+https://play.google.com/store/apps/details?id=com.luzenna.mineproxydroid
+##### MC Server Connector:
+https://play.google.com/store/apps/details?id=com.smokiem.mcserverconnector
 
 #### iOS 14+
-BedrockTogether
+##### BedrockTogether:
+https://apps.apple.com/app/bedrocktogether/id1534593376
 
 
 
