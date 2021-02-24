@@ -11,7 +11,7 @@ PS4 does not have any external server support. But there is some ways around thi
 You will need to emulate a LAN game on your network. 
 This can be done with either a PC, Android APP or iOS 14+, the device must be on the same network as the console.
 
-### Wondiws | Linux | Mac OS
+### Windows | Linux | Mac OS
 With PC you can use a program called Phantom. 
 
 Download phantom from [here](https://github.com/jhead/phantom/releases)
@@ -36,7 +36,7 @@ Find you local ip address with the command below.
  
 It is the same for ipv6 if your network use it.
  
-## Start Phantom
+### Start Phantom
  ### Example: 
 If the Phantom file is in the Downloads folder:
 
@@ -50,11 +50,11 @@ If the Phantom file is in the Downloads folder:
    #### !!!Be aware of the filename for phantom, it is different for each OS (Windows, Linux, MacOS)!!! 
 
 You should see something happening on the terminal when you open Minecraft on your PS4. If it works then you should be able to se that the the PS4 is sending and recieving data to phantom (See the lines in the terminal).
-### Android app
+## Android app
 ##### Work in progress Geyser Android [App](https://github.com/GeyserMC/GeyserAndroid)
 ##### MC Lan [Proxy](https://play.google.com/store/apps/details?id=com.luzenna.mineproxydroidtrial) (Trial)
 ##### MC Lan [Proxy](https://play.google.com/store/apps/details?id=com.luzenna.mineproxydroid) (Paid):
 ##### MC Server [Connector](https://play.google.com/store/apps/details?id=com.smokiem.mcserverconnector)
-#### iOS 14+
+## iOS 14+
 ##### [BedrockTogether](https://apps.apple.com/app/bedrocktogether/id1534593376)
 
