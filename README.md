@@ -15,10 +15,22 @@ This can be done with either a PC, Android APP or iOS 14+, the device must be on
 With PC you can use a program called Phantom. 
 
 Download phantom from [here](https://github.com/jhead/phantom/releases)
+You will ned to find your LOCAL ip address first.
 
-Open Command Prompt (CMD) and change to the directory of Phantom file you downloaded.
-Then start the program by typing the "Start Command" as instructed below:
-### Example: 
+ Windows:
+     ifconfig  
+     
+ Linux:
+     ipconfig
+  MacOS:
+      Wired connection:
+       ipconfig getifaddr en1
+      Wireless (Wifi): 
+       ipconfig getifaddr en0
+       
+ ![alt text](https://github.com/mrvasquez2/VanillaServer/blob/main/Pictures/ipconfig.PNG?raw=true)
+ 
+ ### Example: 
 If the Phantom file is in the Downloads folder:
 
     cd Downloads  
@@ -30,24 +42,6 @@ If the Phantom file is in the Downloads folder:
    
    #### !!!Be aware of the filename for phantom, it is different for each OS (Windows, Linux, MacOS)!!!
    
- Find ip address:
- Windows:
- 
-     ifconfig  
-     
- Linux:
- 
-     ipconfig
-     
-  MacOS:
-  
-      Wired connection:
-       ipconfig getifaddr en1
-      Wireless (Wifi): 
-       ipconfig getifaddr en0
-       
- ![alt text](https://github.com/mrvasquez2/VanillaServer/blob/main/Pictures/ipconfig.PNG?raw=true)
- 
  Start phantom:
  
 ![alt text](https://github.com/mrvasquez2/VanillaServer/blob/main/Pictures/phantom.PNG?raw=true)
