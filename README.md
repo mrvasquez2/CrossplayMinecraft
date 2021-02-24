@@ -28,7 +28,7 @@ Open Command Prompt (CMD) and change to the directory of Phantom-wWondox.exe
     "cd Downloads"
     
     
-![alt text](https://github.com/mrvasquez2/VanillaServer/Pictures/phantom.png?raw=true)
+![alt text](https://github.com/mrvasquez2/VanillaServer/blob/main/Pictures/phantom.PNG?raw=true)
 
 
     ./phantom-<os> -bind YOUR_IP -server x.x.x.x:25556 (YOUR_IP needs to be replaced, to find it type "ipconfig" in CMD)  
