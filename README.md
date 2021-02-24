@@ -62,5 +62,3 @@ If the Phantom file is in the Download folder:
 #### iOS 14+
 ##### [BedrockTogether](https://apps.apple.com/app/bedrocktogether/id1534593376)
 
-## Feedback
-Any kind of feedback can either be posted here under "issues" or you can DM me on discord. (#mrvasquez7574)
