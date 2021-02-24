@@ -24,13 +24,15 @@ This can be done with either a PC, Android APP or iOS 14+, the device must be on
 with PC you can use Phantom
 Open Command Prompt (CMD) and change to the directory of Phantom-wWondox.exe
 ### Example: 
-    If the Phantom file is in the Download folder:
+If the Phantom file is in the Download folder:
     "cd Downloads"
     ./phantom-<os> -bind YOUR_IP -server x.x.x.x:25556 (YOUR_IP needs to be replaced, to find it type "ipconfig" in CMD, see pictures below)  
     
- Find ip address: 
+ Find ip address:
+ 
  ![alt text](https://github.com/mrvasquez2/VanillaServer/blob/main/Pictures/ipconfig.PNG?raw=true)
- Start phantom: 
+ Start phantom:
+ 
 ![alt text](https://github.com/mrvasquez2/VanillaServer/blob/main/Pictures/phantom.PNG?raw=true)
 
 
