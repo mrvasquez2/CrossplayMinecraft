@@ -11,10 +11,9 @@ PS4 does not have any external server support. But there is some ways around thi
 You will need to emulate a LAN game on your network. 
 This can be done with either a PC, Android APP or iOS 14+, the device must be on the same network as the console.
 
-Download phantom from [here](https://github.com/jhead/phantom/releases)
-
 ### PC
-with PC you can use Phantom
+with PC you can use Phantom. 
+Download phantom from [here](https://github.com/jhead/phantom/releases)
 Open Command Prompt (CMD) and change to the directory of Phantom file you downloaded.
 Then start the program by typing the "Start Command" as instructed below:
 ### Example Windows: 
