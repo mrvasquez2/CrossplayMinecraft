@@ -33,7 +33,9 @@ If the Phantom file is in the Download folder:
     phantom-FULL_FILE_NAME -bind YOUR_IP -server SERVER_ADDRESS
     See picture below on how to obtain your ip address.
    SERVER_ADDRESS is available on discord, remember to include the port number. (xxx.xxx.xxx.xxx:Port_Number
+   
    !!!Be aware of the filename for phantom, it is different for each OS (Windows, Linux, MacOS)!!!
+   
  Find ip address:
  
  ![alt text](https://github.com/mrvasquez2/VanillaServer/blob/main/Pictures/ipconfig.PNG?raw=true)
