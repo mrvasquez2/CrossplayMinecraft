@@ -25,12 +25,13 @@ with PC you can use Phantom
 Open Command Prompt (CMD) and change to the directory of Phantom-wWondox.exe
 ### Example: 
 If the Phantom file is in the Download folder:
-    "cd Downloads"
+    "cd Downloads"  
     ./phantom-<os> -bind YOUR_IP -server x.x.x.x:25556 (YOUR_IP needs to be replaced, to find it type "ipconfig" in CMD, see pictures below)  
     
  Find ip address:
  
  ![alt text](https://github.com/mrvasquez2/VanillaServer/blob/main/Pictures/ipconfig.PNG?raw=true)
+ 
  Start phantom:
  
 ![alt text](https://github.com/mrvasquez2/VanillaServer/blob/main/Pictures/phantom.PNG?raw=true)
