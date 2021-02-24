@@ -1,11 +1,3 @@
-# VanillaServer
-Information and feedback for Vanilla Minecraft server
-
-# IP
-
-
-The ip address can be found on the discord server in #minecraft
-
 # Setup for bedrock
 ###### I have not made these guides myself, this is from their github page for the plugin used on the server.
 ###### https://github.com/GeyserMC/Geyser/wiki/Using-Geyser-with-Consoles
@@ -14,15 +6,17 @@ The ip address can be found on the discord server in #minecraft
 ## Nintendo Switch
 [![TEST STuff](https://img.youtube.com/vi/zalT_oR1nPM/0.jpg)](https://www.youtube.com/watch?v=zalT_oR1nPM)
 ## PS4
-######For this i will refer to the text from their Github page:
 
 PS4 does not have any external server support. But there is some ways around this. 
 You will need to emulate a LAN game on your network. 
 This can be done with either a PC, Android APP or iOS 14+, the device must be on the same network as the console.
+Download phantom from here
+
+[I'm an inline-style link](https://www.google.com)
 
 ### PC
 with PC you can use Phantom
-Open Command Prompt (CMD) and change to the directory of Phantom-wWondox.exe
+Open Command Prompt (CMD) and change to the directory of Phantom file you downloaded.
 Then start the program by typing the "Start Command" as instructed below:
 ### Example Windows: 
 If the Phantom file is in the Download folder:
