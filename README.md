@@ -19,14 +19,14 @@ Download phantom from [here](https://github.com/jhead/phantom/releases)
 Open Command Prompt (CMD) and change to the directory of Phantom file you downloaded.
 Then start the program by typing the "Start Command" as instructed below:
 ### Example: 
-If the Phantom file is in the Download folder:
+If the Phantom file is in the Downloads folder:
 
     cd Downloads  
    Start Command
    
     phantom-FULL_FILE_NAME -bind YOUR_IP -server SERVER_ADDRESS
     See picture below on how to obtain your ip address.
-   SERVER_ADDRESS is available on discord, remember to include the port number. (xxx.xxx.xxx.xxx:Port_Number
+   SERVER_ADDRESS is available on discord, remember to include the port number. (xxx.xxx.xxx.xxx:Port_Number)
    
    #### !!!Be aware of the filename for phantom, it is different for each OS (Windows, Linux, MacOS)!!!
    
