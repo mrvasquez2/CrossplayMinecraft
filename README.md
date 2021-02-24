@@ -31,8 +31,11 @@ Find you local ip address with the command below.
        ipconfig getifaddr en1
       Wireless (Wifi): 
        ipconfig getifaddr en0
-       
+ It should look something like the picture below.    
  ![alt text](https://github.com/mrvasquez2/VanillaServer/blob/main/Pictures/ipconfig.PNG?raw=true)
+ 
+It is the same for ipv6 if your network use it.
+ 
  To start Phantom:
  ### Example: 
 If the Phantom file is in the Downloads folder:
