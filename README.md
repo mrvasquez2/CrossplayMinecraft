@@ -37,7 +37,21 @@ If the Phantom file is in the Download folder:
    #### !!!Be aware of the filename for phantom, it is different for each OS (Windows, Linux, MacOS)!!!
    
  Find ip address:
+ Windows:
  
+     ifconfig  
+     
+ Linux:
+ 
+     ipconfig
+     
+  MacOS:
+  
+      Wired connection:
+       ipconfig getifaddr en1
+      Wireless (Wifi): 
+       ipconfig getifaddr en0
+       
  ![alt text](https://github.com/mrvasquez2/VanillaServer/blob/main/Pictures/ipconfig.PNG?raw=true)
  
  Start phantom:
