@@ -54,21 +54,12 @@ If the Phantom file is in the Download folder:
 
 
 ### Android app
-##### Work in progress Geyser Android app:
-https://github.com/GeyserMC/GeyserAndroid
-##### MC Lan Proxy (Trial):
-https://play.google.com/store/apps/details?id=com.luzenna.mineproxydroidtrial
-##### MC Lan Proxy (Paid):
-https://play.google.com/store/apps/details?id=com.luzenna.mineproxydroid
-##### MC Server Connector:
-https://play.google.com/store/apps/details?id=com.smokiem.mcserverconnector
-
+##### Work in progress Geyser Android [App](https://github.com/GeyserMC/GeyserAndroid)
+##### MC Lan [Proxy](https://play.google.com/store/apps/details?id=com.luzenna.mineproxydroidtrial) (Trial)
+##### MC Lan [Proxy](https://play.google.com/store/apps/details?id=com.luzenna.mineproxydroid) (Paid):
+##### MC Server [Connector](https://play.google.com/store/apps/details?id=com.smokiem.mcserverconnector)
 #### iOS 14+
-##### BedrockTogether:
-https://apps.apple.com/app/bedrocktogether/id1534593376
-
-
-
+##### [BedrockTogether](https://apps.apple.com/app/bedrocktogether/id1534593376)
 
 ## Feedback
 Any kind of feedback can either be posted here under "issues" or you can DM me on discord. (#mrvasquez7574)
