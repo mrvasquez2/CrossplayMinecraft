@@ -24,16 +24,16 @@ This can be done with either a PC, Android APP or iOS 14+, the device must be on
 with PC you can use Phantom
 Open Command Prompt (CMD) and change to the directory of Phantom-wWondox.exe
 Then start the program by typing the "Start Command" as instructed below:
-### Example: 
+### Example Windows: 
 If the Phantom file is in the Download folder:
 
     cd Downloads  
    Start Command
    
-    phantom-<os> -bind YOUR_IP -server SERVER_ADDRESS
+    phantom-FULL_FILE_NAME -bind YOUR_IP -server SERVER_ADDRESS
     See picture below on how to obtain your ip address.
    SERVER_ADDRESS is available on discord, remember to include the port number. (xxx.xxx.xxx.xxx:Port_Number
-    
+   !!!Be aware of the filename for phantom, it is different for each OS (Windows, Linux, MacOS)!!!
  Find ip address:
  
  ![alt text](https://github.com/mrvasquez2/VanillaServer/blob/main/Pictures/ipconfig.PNG?raw=true)
