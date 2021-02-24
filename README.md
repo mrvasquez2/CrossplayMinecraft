@@ -29,6 +29,7 @@ If the Phantom file is in the Download folder:
 
     cd Downloads  
    Start Command
+   
     phantom-<os> -bind YOUR_IP -server SERVER_ADDRESS
     See picture below on how to obtain your ip address.
    SERVER_ADDRESS is available on discord, remember to include the port number. (xxx.xxx.xxx.xxx:Port_Number
