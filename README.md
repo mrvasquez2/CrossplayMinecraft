@@ -49,6 +49,7 @@ If the Phantom file is in the Downloads folder:
    
    #### !!!Be aware of the filename for phantom, it is different for each OS (Windows, Linux, MacOS)!!! 
 
+You should see something happening on the terminal when you open Minecraft on your PS4. If it works then you should be able to se that the the PS4 is sending and recieving data to phantom (See the lines in the terminal).
 ### Android app
 ##### Work in progress Geyser Android [App](https://github.com/GeyserMC/GeyserAndroid)
 ##### MC Lan [Proxy](https://play.google.com/store/apps/details?id=com.luzenna.mineproxydroidtrial) (Trial)
