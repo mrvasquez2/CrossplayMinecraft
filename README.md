@@ -23,10 +23,10 @@ This can be done with either a PC, Android APP or iOS 14+, the device must be on
 ### PC
 with PC you can use Phantom
 Open Command Prompt (CMD) and change to the directory of Phantom-wWondox.exe
-Example: 
-    If the Phantom file is in the Download folder:
-    "cd Downloads"
-    ./phantom-<os> -bind YOUR_IP -server x.x.x.x:25556 (YOUR_IP needs to be replaced, to find it type "ipconfig" in CMD)
+### Example: 
+    If the Phantom file is in the Download folder:   
+    "cd Downloads"  
+    ./phantom-<os> -bind YOUR_IP -server x.x.x.x:25556 (YOUR_IP needs to be replaced, to find it type "ipconfig" in CMD)  
 
 ### Android app
 ##### Work in progress Geyser Android app:
