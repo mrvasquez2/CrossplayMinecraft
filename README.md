@@ -37,7 +37,7 @@ Find you local ip address with the command below.
 It is the same for ipv6 if your network use it.
  
 ### Start Phantom
- ### Example: 
+ #### Example: 
 If the Phantom file is in the Downloads folder:
 
     cd Downloads  
