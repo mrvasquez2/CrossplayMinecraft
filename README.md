@@ -15,21 +15,25 @@ This can be done with either a PC, Android APP or iOS 14+, the device must be on
 With PC you can use a program called Phantom. 
 
 Download phantom from [here](https://github.com/jhead/phantom/releases)
-You will ned to find your LOCAL ip address first.
+
+Find you local ip address with the command below.
 
  Windows:
+ 
      ifconfig  
      
  Linux:
+ 
      ipconfig
   MacOS:
+  
       Wired connection:
        ipconfig getifaddr en1
       Wireless (Wifi): 
        ipconfig getifaddr en0
        
  ![alt text](https://github.com/mrvasquez2/VanillaServer/blob/main/Pictures/ipconfig.PNG?raw=true)
- 
+ To start Phantom:
  ### Example: 
 If the Phantom file is in the Downloads folder:
 
