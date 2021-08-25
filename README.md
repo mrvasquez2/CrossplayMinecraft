@@ -32,7 +32,7 @@ Find you local ip address with the command below.
       Wireless (Wifi): 
        ipconfig getifaddr en0
  It should look something like the picture below.    
- ![alt text](https://github.com/mrvasquez2/VanillaServer/blob/main/Pictures/ipconfig.PNG?raw=true)
+ ![ipconfig](https://user-images.githubusercontent.com/71797352/130745139-ea7a04fc-164e-4cce-98d2-e3220b8e239b.PNG)
  
 It is the same for ipv6 if your network use it.
  
@@ -45,7 +45,7 @@ If the Phantom file is in the Downloads folder:
    
     phantom-FULL_FILE_NAME -bind YOUR_IP -server SERVER_ADDRESS
     
-  ![alt text](https://github.com/mrvasquez2/VanillaServer/blob/main/Pictures/phantom.PNG?raw=true)
+ ![phantom](https://user-images.githubusercontent.com/71797352/130745177-5d5497cf-2e68-4cb4-b5ed-6b5183c13fe2.PNG)
    
    #### !!!Be aware of the filename for phantom, it is different for each OS (Windows, Linux, MacOS)!!! 
 
